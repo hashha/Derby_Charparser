@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 29 12:55:41 MST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0142-05c9-2fd2-000005d63c00 
+on database directory C:\Users\Murali\git\Intern\Derby_08_05_2013\phenoscape-nlp\parsing-gui\database\biocreative2017 with class loader sun.misc.Launcher$AppClassLoader@5e15e68d 
+Loaded from file:/C:/Users/Murali/git/Intern/Derby_08_05_2013/phenoscape-nlp/parsing-gui/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_40-b43
+user.dir=C:\Users\Murali\git\Intern\Derby_08_05_2013\phenoscape-nlp\parsing-gui
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
